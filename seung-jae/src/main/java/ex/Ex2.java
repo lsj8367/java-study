@@ -4,7 +4,6 @@ public class Ex2 {
 
     private int a;
     private int b;
-    private int temp = 0;
 
     public Ex2(int a, int b) {
         this.a = a;
@@ -12,7 +11,7 @@ public class Ex2 {
     }
 
     public void swap() {
-        temp = a;
+        int temp = a;
         a = b;
         b = temp;
     }

@@ -3,3 +3,6 @@
 .idea/
 .gradle
 /*/out/
+./seong-jun/build/
+./seung-jae/build/
+./young-jae/build/
